@@ -208,7 +208,7 @@ Seven Cubed Seven Labs LLC pioneers consciousness-aligned cryptographic systems.
 **Founder & CEO:** Julio C. Medina  
 **Website:** https://sevencubedsevenlabs.com  
 **Patents:** https://patents.sevencubedsevenlabs.com  
-**Contact:** jules@sevencubedsevenlabs.com
+**Contact:** sevencubedseven@proton.me
 
 ---
 
@@ -218,7 +218,7 @@ This repository establishes prior art and is not accepting code contributions. H
 
 - **Questions:** Open an issue for clarification
 - **Implementations:** Share your work (cite this repository)
-- **Feedback:** Email jules@sevencubedsevenlabs.com
+- **Feedback:** Email sevencubedseven@proton.me
 - **Partnerships:** Commercial licensing inquiries welcome
 
 ---
