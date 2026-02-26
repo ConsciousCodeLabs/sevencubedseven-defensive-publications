@@ -183,7 +183,7 @@ The fundamental 4-shell 7⁴-Lattice architecture and its core principles are di
 The 5, 6, and 7-shell extensions, AI pathway selection methods, and hardware acceleration concepts disclosed in these publications are freely available for research and commercial use under CC-BY 4.0 license.
 
 ### Implementation Note:
-While these extensions are public domain, practical implementations of 7⁵, 7⁶, or 7⁷ systems typically require the core 4-shell architecture (Patent #65) to function as designed. For commercial licensing inquiries, contact: jules@sevencubedsevenlabs.com
+While these extensions are public domain, practical implementations of 7⁵, 7⁶, or 7⁷ systems typically require the core 4-shell architecture (Patent #65) to function as designed. For commercial licensing inquiries, contact: sevencubedseven@proton.me.com
 
 ---
 
